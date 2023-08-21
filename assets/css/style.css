@@ -67,6 +67,7 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+    
 }
 
 .content {
@@ -187,6 +188,11 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+.text-right{
+    text-align: right;
+}
+
 
 .footer {
     padding: 30px;
